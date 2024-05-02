@@ -1,9 +1,10 @@
-p {
-  text-decoration: underline;
-  border: 1px solid black;
-  padding: .5em 1em;
-  width: fit-content;
-}
+  p {
+    text-decoration: underline;
+    border: 1px solid black;
+    padding: .5em 1em;
+    width: fit-content;
+    color: orange;
+  }
 
 
 
