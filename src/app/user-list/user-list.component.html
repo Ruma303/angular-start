@@ -1,0 +1,14 @@
+  <h3>Users</h3>
+
+  <!-- <li *ngFor="let user of users">
+    {{ user }}
+  </li> -->
+  
+  <ol>
+    <li *ngFor="let user of users">
+      <app-user [user]="user"></app-user>
+    </li>
+  </ol>
+
+
+
